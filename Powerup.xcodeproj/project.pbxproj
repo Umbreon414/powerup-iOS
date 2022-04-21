@@ -211,6 +211,7 @@
 		D9E922E61F1C9FFA0091D8BB /* SinkToSwimTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SinkToSwimTests.swift; sourceTree = "<group>"; };
 		D9EEC4541F2A1A230037C745 /* VocabMatchingTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VocabMatchingTests.swift; sourceTree = "<group>"; };
 		E654B35A2458A2DB0047E077 /* libsqlite3.0.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.0.tbd; path = usr/lib/libsqlite3.0.tbd; sourceTree = SDKROOT; };
+		E6EA07372811DF49001CE4FD /* ReadMe.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = ReadMe.md; sourceTree = "<group>"; };
 		EAB1B4AB1FE9E4FB005964AF /* UserDefaultsHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDefaultsHandler.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -283,6 +284,7 @@
 				D959CBC51EE642BE00C31753 /* Data Models */,
 				D956495E1EDFB20A008D5675 /* View Controllers */,
 				2A0CA5541B294C6B00ED8781 /* AppDelegate.swift */,
+				E6EA07372811DF49001CE4FD /* ReadMe.md */,
 				2A0CA5581B294C6B00ED8781 /* Main.storyboard */,
 				2A0CA55B1B294C6B00ED8781 /* Images.xcassets */,
 				6A69DC9D20ABCA0A006511E3 /* Sounds.xcassets */,
